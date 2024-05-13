@@ -8,6 +8,13 @@
       "when": 1715455401700,
       "tag": "0000_awesome_the_hood",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1715609754126,
+      "tag": "0001_illegal_doctor_faustus",
+      "breakpoints": true
     }
   ]
 }
